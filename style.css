@@ -174,14 +174,6 @@ nav {
     color: white;
 }
 
-.fourth-card-info-inline {
-    background-color: rgb(0, 255, 204);
-}
-
-.fourth-card-info-inline p {
-    color: rgb(14, 65, 55);
-}
-
 .footer-block {
     margin-top: 2rem;
     display: flex;
